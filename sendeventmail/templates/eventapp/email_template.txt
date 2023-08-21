@@ -1,0 +1,6 @@
+Hello {{ employee_name }},
+
+This is a reminder that the {{ event_type }} event is scheduled on {{ event_date }}.
+
+Best regards,
+Event Email System
